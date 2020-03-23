@@ -1,5 +1,5 @@
 # users.admin.invite
-This method sends invitation to a new user by email
+This method sends invitation to a new user by email.
 This endpoint uses a [legacy token](https://api.slack.com/custom-integrations/legacy-tokens) to authenticate. Please make sure you are using this token type and not one of the newer types.
 
 ## Arguments
